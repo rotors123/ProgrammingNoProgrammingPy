@@ -10,6 +10,9 @@
 普通に表示する = lambda 文字列: print(文字列)
 繋げて表示する = lambda 配列: 普通に表示する(" ".join(配列))
 
+
+
+
 class 名言:
 
     def __init__(self, 発言, 発言者の名前):
